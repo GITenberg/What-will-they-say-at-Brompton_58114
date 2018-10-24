@@ -1,0 +1,27 @@
+_repo: What-will-they-say-at-Brompton_58114
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coyne, J. Stirling (Joseph Stirling)
+    aliases:
+    - Coyne, Stirling
+    - Coyne, J. S. (Joseph Stirling)
+    - Coyne, Joseph Stirling
+    - Coyne, J. Sterling (Joseph Sterling)
+    birthdate: 1803
+    deathdate: 1868
+    gutenberg_agent_id: '45514'
+    url: http://www.gutenberg.org/2009/agents/45514
+description: ''
+gutenberg_issued: '2018-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: What will they say at Brompton?
+url: http://www.gutenberg.org/ebooks/58114
